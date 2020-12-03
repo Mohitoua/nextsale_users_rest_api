@@ -1,5 +1,3 @@
-Simple REST API Example with Users Table
-
 Bütün istifadəçilərin sorğulanması:
 http://nextsale/api/selection.php
 
@@ -11,4 +9,8 @@ http://nextsale/api/deletion.php?id=7
 
 Cari istifadəçinin məlumatlarının dəyişdirilməsi:
 http://nextsale/api/modification.php?id=9&fullname=Ernest&age=41&email=ernest@mail.com&salary=3500
+
+
+
+
 
